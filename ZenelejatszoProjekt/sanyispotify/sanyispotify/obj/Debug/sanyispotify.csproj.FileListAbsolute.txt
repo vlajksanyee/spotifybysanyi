@@ -1,0 +1,15 @@
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\bin\Debug\sanyispotify.exe.config
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\bin\Debug\sanyispotify.exe
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\bin\Debug\sanyispotify.pdb
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\obj\Debug\sanyispotify.csprojAssemblyReference.cache
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\obj\Debug\MainWindow.g.cs
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\obj\Debug\App.g.cs
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\obj\Debug\sanyispotify_MarkupCompile.cache
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\obj\Debug\sanyispotify_MarkupCompile.lref
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\obj\Debug\MainWindow.baml
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\obj\Debug\sanyispotify.g.resources
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\obj\Debug\sanyispotify.Properties.Resources.resources
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\obj\Debug\sanyispotify.csproj.GenerateResource.cache
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\obj\Debug\sanyispotify.csproj.CoreCompileInputs.cache
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\obj\Debug\sanyispotify.exe
+E:\!School\Komplex Programozás\ZenelejatszoProjekt\sanyispotify\sanyispotify\obj\Debug\sanyispotify.pdb
